@@ -1,2 +1,3 @@
 # LITA_Documentation
-This is where I documented my first project while learning Data Analysis
+## Building Dashboards with Excel
+### E-Commerce Sales Analysis
