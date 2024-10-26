@@ -37,3 +37,6 @@ This is where I add some lines of code, queries and DAX expressions used during 
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
+```
+
+### Data Visualization
